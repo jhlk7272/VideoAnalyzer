@@ -25,7 +25,7 @@ namespace LiveCameraSample.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("b84106a40d9f4bf789f458a9ee3fc7e2")]
         public string FaceAPIKey {
             get {
                 return ((string)(this["FaceAPIKey"]));
@@ -37,7 +37,7 @@ namespace LiveCameraSample.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("0ff0835aadf24ccfb62571df22cf458e")]
         public string EmotionAPIKey {
             get {
                 return ((string)(this["EmotionAPIKey"]));
@@ -49,7 +49,7 @@ namespace LiveCameraSample.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("6946b6243df84b2599c5cf52fb02e9a6")]
         public string VisionAPIKey {
             get {
                 return ((string)(this["VisionAPIKey"]));
@@ -73,7 +73,7 @@ namespace LiveCameraSample.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("00:00:03")]
+        [global::System.Configuration.DefaultSettingValueAttribute("00:00:10")]
         public global::System.TimeSpan AnalysisInterval {
             get {
                 return ((global::System.TimeSpan)(this["AnalysisInterval"]));
@@ -133,7 +133,7 @@ namespace LiveCameraSample.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("00:05:00")]
+        [global::System.Configuration.DefaultSettingValueAttribute("00:02:00")]
         public global::System.TimeSpan AutoStopTime {
             get {
                 return ((global::System.TimeSpan)(this["AutoStopTime"]));

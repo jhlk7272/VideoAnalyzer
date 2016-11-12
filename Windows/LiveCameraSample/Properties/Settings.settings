@@ -3,19 +3,19 @@
   <Profiles />
   <Settings>
     <Setting Name="FaceAPIKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">b84106a40d9f4bf789f458a9ee3fc7e2</Value>
     </Setting>
     <Setting Name="EmotionAPIKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">0ff0835aadf24ccfb62571df22cf458e</Value>
     </Setting>
     <Setting Name="VisionAPIKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">6946b6243df84b2599c5cf52fb02e9a6</Value>
     </Setting>
     <Setting Name="SettingsPanelVisibility" Type="System.Windows.Visibility" Scope="User">
       <Value Profile="(Default)">Visible</Value>
     </Setting>
     <Setting Name="AnalysisInterval" Type="System.TimeSpan" Scope="User">
-      <Value Profile="(Default)">00:00:03</Value>
+      <Value Profile="(Default)">00:00:10</Value>
     </Setting>
     <Setting Name="FaceAPICallCount" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
@@ -30,7 +30,7 @@
       <Value Profile="(Default)">True</Value>
     </Setting>
     <Setting Name="AutoStopTime" Type="System.TimeSpan" Scope="Application">
-      <Value Profile="(Default)">00:05:00</Value>
+      <Value Profile="(Default)">00:02:00</Value>
     </Setting>
   </Settings>
 </SettingsFile>
